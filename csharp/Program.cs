@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace csharp
 {
@@ -43,7 +39,7 @@ namespace csharp
         }
 
         /// <summary>
-        /// Output each array element's value using a for loop.
+        /// Print each array element's value using a for loop.
         /// </summary>
         /// <param name="array"></param>
         static void ForArray(string[] array)
@@ -53,12 +49,13 @@ namespace csharp
             for (i = 0; i < array.Length; i++)
             {
                 Console.WriteLine("Name ({0}): {1}", i, array[i]);
-    
             }
+
+            Console.WriteLine("----------------->");
         }
 
         /// <summary>
-        /// Output each array element's value using a foreach statement.
+        /// Print each array element's value using a foreach statement.
         /// </summary>
         /// <param name="array"></param>
         static void ForeachArray(string[] array)
@@ -66,8 +63,9 @@ namespace csharp
             foreach (string item in array)
             {
                 Console.WriteLine("Name: {0}", item);
-
             }
+
+            Console.WriteLine("----------------->");
         }
     }
 }
