@@ -43,7 +43,7 @@ namespace list
         }
 
         /// <summary>
-        /// Print each list element's value using a foreach statement.
+        /// Looping through list.
         /// </summary>
         /// <param name="list"></param>
         static void Print(List<string> list)
