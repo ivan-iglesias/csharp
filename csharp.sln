@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "csharp\arrays.csproj", "{FB8858A3-BFC9-4DD8-8F3A-CF3A02C807D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csproj", "{FB8858A3-BFC9-4DD8-8F3A-CF3A02C807D3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "list", "list\list.csproj", "{7DA4652A-7056-465D-A930-40504FD6463E}"
 EndProject

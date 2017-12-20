@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace csharp
+namespace arrays
 {
     class Program
     {

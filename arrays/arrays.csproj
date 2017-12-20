@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{FB8858A3-BFC9-4DD8-8F3A-CF3A02C807D3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>csharp</RootNamespace>
-    <AssemblyName>csharp</AssemblyName>
+    <RootNamespace>arrays</RootNamespace>
+    <AssemblyName>arrays</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
