@@ -23,7 +23,7 @@ namespace yield
 
 
         /// <summary>
-        /// The the rockets faster than 20 using yield. To avoid the usage of a temporary collection.
+        /// The rockets faster than 20 using yield. To avoid the usage of a temporary collection.
         /// </summary>
         /// <param name="Rockets"></param>
         /// <returns></returns>
